@@ -1,3 +1,3 @@
-* **选择语言**
-  * [简体中文](docs/zh/index.md)
-  * [English](docs/en/index.md)
+* **仓库信息**
+  * [关联仓库](docs/zh/index.md)
+  * [注意事项](docs/en/index.md)
